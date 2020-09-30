@@ -3,7 +3,7 @@
 }
 .horizontal-list .list-item {
   float: left;
-  border-right: 1px solid #ccc;
+  border-right: 2px solid #ccc;
 }
 .horizontal-list .list-item:last-of-type {
   border-right: none;
